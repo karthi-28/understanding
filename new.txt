@@ -3,4 +3,9 @@ this is added
 adding file by user2
 =======
 new thisng affer
+<<<<<<< HEAD
 >>>>>>> 182dff1e43dd3fc63b5982c03ebd57f5ca92303d
+=======
+one more
+>>>>>>> 3c7e4e6c9c3271070e2bb46e31c8988930dad5ab
+add
