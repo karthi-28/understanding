@@ -1,2 +1,6 @@
 this is added
+<<<<<<< HEAD
 adding file by user2
+=======
+new thisng affer
+>>>>>>> 182dff1e43dd3fc63b5982c03ebd57f5ca92303d
